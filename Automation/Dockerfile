@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY . /usr/share/nginx/html
+COPY ./Automation/ /usr/share/nginx/html
